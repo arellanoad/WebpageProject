@@ -1,0 +1,53 @@
+/*
+  white: #FFFFFF
+*/
+
+/*
+red #ff0000
+light blue #ADD8E6
+yellow #FFFF00
+*/
+
+body{
+  background-color: #ADD8E6; 
+  padding: 0 24px 36px 24px ;
+}
+
+H1,H2 {
+  COLOR: ##FFFF00;
+}
+
+H1 {
+  text-align: center ;
+}
+
+P.PICTURE {
+  text-align: center;
+}
+
+P, LI, TABLE{
+  font-size: 1.5EM;
+}
+
+TH, TD{
+  */
+  border: #468BA6 solid 3px;
+  padding: 8px;
+
+}
+TABLE {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+a{
+  color: ##ff0000;
+  font-weight:bold ;
+}
+
+a:hover{
+color: #1d4859; 
+}
+

@@ -1,0 +1,59 @@
+/*
+blue : #468BA6
+orange: #f29A2E
+light orange #FDF0E0
+dark blue: #1D4859
+brown #59314 
+*/
+
+body{
+	background-color: #FDF0E0; 
+	padding: 0 24px 36px 24px ;
+}
+
+H1,H2 {
+	COLOR: #1D4859;
+}
+
+H1 {
+	text-align: center ;
+}
+
+P.PICTURE {
+	text-align: center;
+}
+
+P, LI, TABLE{
+	font-size: 1.2EM;
+}
+
+TH, TD{
+	/* border-color: #468BA6;
+	border-style: SOLID;
+	border-width: 3px;
+	*/
+	border: #468BA6 solid 3px;
+	padding: 8px;
+
+}
+TABLE {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ /*
+ block display
+ specified width
+ left and right margins must be equal - set to auto
+ */
+
+a{
+	color: #593814;
+	font-weight:bold ;
+}
+
+a:hover{
+color: #1d4859; 
+}
+
